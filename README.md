@@ -1,6 +1,10 @@
 <div align="center">
   <img alt="ollama" height="200px" src="https://github.com/jmorganca/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
 </div>
+# Fork
+
+Adjusted so it will run on old CPU without AVX that have a modern GPU.
+For me this is an x5650 with a RTX 2060
 
 # Ollama
 
